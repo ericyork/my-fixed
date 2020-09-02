@@ -4,16 +4,16 @@ I've laid out everything you need to know to finish this project. Aside from *re
 This file contains a list of all the tasks that remain, in basically the same order as they appear in the source code, so all you need to do is start at the top and work your way down. Remember that Google is your friend :)
 
 ## In /index.html
-+ The page needs a better title. Think of one and change it to that.
+DOne The page needs a better title. Think of one and change it to that.
 
-+ The stylesheet needs to be hooked up to the page. In the head section, add a link to our external stylesheet: it's named style.css and it's located inside the /css folder.
+DONE The stylesheet needs to be hooked up to the page. In the head section, add a link to our external stylesheet: it's named style.css and it's located inside the /css folder.
 
-+ One image still needs to be added. Inside the article element, there's a figure without an image. Add an image element that links to the dodo.jpg file inside the /img folder. Don't forget to use the alt attribute!
+DONE One image still needs to be added. Inside the article element, there's a figure without an image. Add an image element that links to the dodo.jpg file inside the /img folder. Don't forget to use the alt attribute!
 
 ## In /css/style.css
-+ Set the default font on the body to 'Gentium Book Basic' with a fallback to serif, so it will be inherited by the rest of the elements.
+DONE Set the default font on the body to 'Gentium Book Basic' with a fallback to serif, so it will be inherited by the rest of the elements.
 
-+ Use flex display to lay out the main menu in a horizontal row and use justify-content to distribute the links as space-between.
+DONE Use flex display to lay out the main menu in a horizontal row and use justify-content to distribute the links as space-between.
 
 + Use left and right auto margin to center both the header and article sections horizontally on the page.
 
